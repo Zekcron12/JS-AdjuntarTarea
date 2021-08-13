@@ -89,6 +89,11 @@ body {
 .tareas .lista li a:hover {
 	color: #FF2727;
 }
+@media screen and (max-width: 400px) {
+  .tareas {
+    width: 20rem;
+  }
+}
 /*-------------------- End - Cuerpo Principal --------------------*/
 
 /*-------------------- Boton de redes sociales --------------------*/
