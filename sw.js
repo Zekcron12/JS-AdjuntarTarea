@@ -1,14 +1,18 @@
+;
 //asignar un nombre y versión al cache
-const CACHE_NAME = 'v1_cache_zkc',
+const CACHE_NAME = 'v1_cache_programador_fitness',
   urlsToCache = [
     './',
     'https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap',
     'https://fonts.gstatic.com',
+    'https://fonts.gstatic.com',
+    'https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css',
     'https://kit.fontawesome.com/c3a0547943.js',
     './css/style.css',
     './css/normalize.css',
-    './js/main.js',
-    './img/logoapptarea.png'
+    './css/mododark.css',
+    './js/popup.js',
+    './img/logozkc.png'
   ]
 
 //durante la fase de instalación, generalmente se almacena en caché los activos estáticos

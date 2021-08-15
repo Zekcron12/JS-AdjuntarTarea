@@ -1,7 +1,7 @@
 {
-  "name": "Aplicación de Tareas - ZKC",
-  "short_name": "Tareas App",
-  "description": "Bienvenid@s al Progressive Web Apps de Tareas App",
+  "name": "Portafolio - Barragán Alfredo",
+  "short_name": "Portafolio ZKC",
+  "description": "Bienvenid@s al Progressive Web Apps de mi Portafolio",
   "background_color": "#131319",
   "theme_color": "#1B7578",
   "orientation": "portrait",
@@ -11,12 +11,12 @@
   "lang": "es-ARG",
   "icons": [
     {
-      "src": "./img/logoapptarea.png",
+      "src": "./img/logozkc.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "./img/logoapptarea.png",
+      "src": "./img/logozkc2.png",
       "sizes": "1024x1024",
       "type": "image/png"
     }
